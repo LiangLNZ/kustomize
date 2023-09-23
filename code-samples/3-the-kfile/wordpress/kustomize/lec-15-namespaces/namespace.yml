@@ -1,0 +1,7 @@
+# this creates a namespace 
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: lec-15
+  labels:
+    version: lec-15
